@@ -12,7 +12,10 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class PatientDetails {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		/*
+		 * created first branch for Patient details
+		 */
 		
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://demo.openmrs.org/");
