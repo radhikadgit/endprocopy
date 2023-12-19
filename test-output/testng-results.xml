@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-13T11:09:48 CST" name="Default suite" finished-at="2023-12-13T11:10:06 CST" duration-ms="17609">
+    <groups>
+    </groups>
+    <test started-at="2023-12-13T11:09:48 CST" name="Default test" finished-at="2023-12-13T11:10:06 CST" duration-ms="17609">
+      <class name="qamavenproj.EndToEndProject.RegisterPatient_MD_P">
+        <test-method signature="validateRegisterPatient()[pri:0, instance:qamavenproj.EndToEndProject.RegisterPatient_MD_P@4d0f2471]" started-at="2023-12-13T11:09:48 CST" name="validateRegisterPatient" finished-at="2023-12-13T11:10:06 CST" duration-ms="17540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterPatient -->
+      </class> <!-- qamavenproj.EndToEndProject.RegisterPatient_MD_P -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
